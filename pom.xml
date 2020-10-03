@@ -23,6 +23,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+		</propriedades>
+	<propriedades>
+        	<Dsonar.projectKey > projetodias</ Dsonar.projectKey>
+<Dsonar.host.url >http: //ip172-18-0-7-btru38qosm4g00be6hqg-9000.direct.labs.play-with-docker.com</ Dsonar.host.url>
+<Dsonar.login >9b0e3a09979a43f85235d60996306b93c70eff41</Dsonar.login>
 	</properties>
 
 	<dependencies>
